@@ -1,0 +1,9 @@
+node_modules/
+.env
+.DS_Store
+*.log
+AppData/
+*.tmp
+*.bak
+
+scripts/serviceAccountKey.json

@@ -1,5 +1,5 @@
 
-Try Now - https://peekafuture-dashboard-723380636666.us-west1.run.app/](https://peekafuture.pages.dev/)
+Try Now - https://peekafuture.pages.dev/
 
 Peekafuture - Your AI-Powered Career Guidance Ecosystem
 React TypeScript Firebase Google Gemini Tailwind CSS
